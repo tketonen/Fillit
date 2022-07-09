@@ -9,12 +9,20 @@ In this project you had to make a program that could take in files with tetrimin
 - Tetriminos have to be in a 4x4 square and divided with a new line:
 
 .##.
+
 ..#.
+
 ..#.
+
 ....
 
+
 ..##
+
 ..##
+
 ....
+
 ....
+
 
